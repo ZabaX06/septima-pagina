@@ -1,0 +1,112 @@
+.primaria{
+    background-color: rgba(42, 222, 228, 0.89);
+}
+.one{
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+}
+
+.two{
+    color: blueviolet;
+}
+
+.rafa{
+    font-family: cursive;
+}
+.bless{
+    background-color: aqua;
+}
+
+.arca{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.banano{
+    text-align: center;
+    background-color: blueviolet;
+    font-family: fantasy;
+}
+
+section{
+    
+    text-align: center;
+    font-family: cursive;
+    
+}
+
+img{
+    width: 400px;
+    font-size: medium;
+    text-align: center;
+    height: 350px;
+
+    
+}
+
+.segunda{
+    width: 400px;
+    text-align: center;
+}
+
+button{
+    color: rgb(8, 8, 8);
+    background-color: rgb(221, 3, 185);
+}
+
+.titulo{
+    color: blueviolet;
+}
+
+body{
+    background-color: rgb(255, 255, 255)  ;
+}
+
+p{
+    text-align: center;
+    font-family: cursive;
+}
+
+h2{
+    font-family: cursive;
+}
+
+
+button{
+    color: rgb(8, 8, 8);
+    background-color: rgb(221, 3, 185);
+}
+
+
+#arroz{
+    font-family: cursive;
+}
+
+
+.tree{
+    background-color: aqua;
+}
+
+.juan{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: blueviolet;
+
+}
+
+.chomin{
+    font-family: cursive;
+}
+
+.platano{
+    border-radius: 40px;
+}
+
+.miguel{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pepe{
+    border-radius: 40px;
+}
